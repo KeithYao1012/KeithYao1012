@@ -2,7 +2,7 @@
 
 # Hi!!!! First changes on README.md!
 
-# Second change - resume
+# Second change - resume, small change
 
 <!--
 **KeithYao1012/KeithYao1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
